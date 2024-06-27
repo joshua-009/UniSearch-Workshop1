@@ -6,7 +6,7 @@ git for project collaboration, docker for app containerization,
 and postgres for storing and retrieving application data. 
 
 ## Prerequisites
-
+These are to be done before attending the session
 ##### Any Linux machine (ubuntu is preferred) with following packages installed
 - git
 - python3.10
